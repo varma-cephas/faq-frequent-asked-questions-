@@ -139,7 +139,7 @@ h1, h3{
     }
 } */
 
-@media (max-width: 375px) {
+@media (max-width: 500px) {
     #background-pattern-desktop{
         display: none;
     }
